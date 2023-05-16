@@ -1,0 +1,16 @@
+{
+    "name": "xlsx-converter",
+    "version": "1.0.0",
+    "description": "NW.js app to upload XLSX file, convert to JSON, and download JSON file",
+    "main": "index.html",
+    "scripts": {
+      "start": "nw ."
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "nw": "^0.50.3"
+    }
+  }
+  
